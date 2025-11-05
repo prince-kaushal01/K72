@@ -74,7 +74,7 @@ cd k72
 npm install
 npm run dev
 ```
-You can directly view my website through this link:- https://k72-2.onrender.com/agency
+You can directly view my website through this link:-  https://k72-2.onrender.com/
 
 🧠 Learning Focus
 
