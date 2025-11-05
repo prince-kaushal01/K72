@@ -1,5 +1,5 @@
 import gsap from 'gsap'
-import Video from '../../assets/Video/video.mp4'
+import Video from '../../assets/Video/Video.mp4'
 import Footer from './Footer'
 import { useGSAP } from '@gsap/react'
 
