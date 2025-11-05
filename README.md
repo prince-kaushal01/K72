@@ -74,6 +74,7 @@ cd k72
 npm install
 npm run dev
 ```
+You can directly view my website through this link:- https://k72-2.onrender.com/agency
 
 🧠 Learning Focus
 
@@ -99,3 +100,5 @@ Feel free to use, modify, and share with attribution.
 
 👋 Author
 Prince kaushal
+linkedin- www.linkedin.com/in/princegupta3012
+Email- princekaushal357@gmail.com
